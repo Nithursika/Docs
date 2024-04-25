@@ -6,6 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: Nithursika/Docs
     backstage.io/techdocs-ref: dir:.
+    backstage.io/techdocs-ref: url:https://gitlab.com/mccricardo-blog-demos/gitops-flux-helm
 spec:
   type: documentation
   lifecycle: experimental
