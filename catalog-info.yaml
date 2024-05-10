@@ -6,6 +6,9 @@ metadata:
   annotations:
     github.com/project-slug: Nithursika/Docs
     backstage.io/techdocs-ref: dir:.
+    jira/project-key: PEJ
+    jira/component: <example-component> # Optional, you might skip this value to fetch data for all components
+    jira/token-type: Bearer # Optional, used for Activity stream feed. If you are usi
 spec:
   type: documentation
   lifecycle: experimental
