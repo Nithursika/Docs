@@ -8,7 +8,7 @@ metadata:
     backstage.io/techdocs-ref: dir:.
     jira/project-key: PEJ
     jira/component: <example-component> # Optional, you might skip this value to fetch data for all components
-    jira/token-type: Bearer # Optional, used for Activity stream feed. If you are usi
+    jira/token-type: Basic dmltdWt0aGkuZHVsbmF0aEBpdmVkaGEuY29tOkFUQVRUM3hGZkdGMHZTQ1RQREdMZXFjUV9obFdnclMzRndrbDJJbm94SVRTS0wxN1U0cWtLWG5QVWc2Y2pSdWRXYlFNejRud1FRRjRDMGFiOF9ZRVllMXJYV09TYUxvLWlMT2ZrTUZYeF9XZkJJenpUbnlEcU05eGRBV3o1SU1NQkpncWIzaFZXMldQVzJiRmQzYnRHVUFTdXVqa0ViS3E3RUw3R2V1d0lSUDJackxjenpUOE1Pcz0yRkZCQTRCRA== # Optional, used for Activity stream feed. If you are usi
 spec:
   type: documentation
   lifecycle: experimental
