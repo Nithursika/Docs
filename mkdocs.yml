@@ -3,6 +3,8 @@ site_description: "This is a test docs"
 
 nav:
   - Introduction: index.md
+  - External Documentation:
+      - "Google": https://www.google.comhttps://happierhealthier.medium.com/what-you-need-to-know-to-set-up-your-first-medium-article-in-style-f37d03bf2846
 
 plugins:
   - techdocs-core
