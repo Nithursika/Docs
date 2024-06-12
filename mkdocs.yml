@@ -1,11 +1,10 @@
 site_name: "TestDocs"
 site_description: "This is a test docs"
-
+site_url: https://www.cs.cornell.edu/courses/
 nav:
   - Introduction: index.md
   - External Documentation:
-      - example: https://www.cs.cornell.edu/courses/cs3110/2018sp/handouts/overview.html
-      - conflu: https://aytra.atlassian.net/wiki/spaces/PE/pages/678526978/Cost+Insights
+      - example: cs3110/2018sp/handouts/overview.html
 
 plugins:
   - techdocs-core
