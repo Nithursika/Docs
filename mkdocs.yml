@@ -3,6 +3,7 @@ site_description: "This is a test docs"
 
 nav:
   - Introduction: index.md
+  - ex.py
   - External Documentation:
       - example: https://www.cs.cornell.edu/courses/cs3110/2018sp/handouts/overview.html
 
