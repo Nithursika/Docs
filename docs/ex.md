@@ -40,7 +40,7 @@ done right, Backstage acts as a "platform of platforms" or marketplace between
 infra/platform teams and end-users:
 
 ![pop](./assets/pop.png)
-![pop](./assets/Marketplace Deployment - GCP - Development - iVedha - Confluence.mhtml)
+![ArgoCD](./assets/ArgoCD.png)
 
 While anyone at your company can contribute to the platform, the vast majority
 of work will be done by teams that also have internal engineers as their
