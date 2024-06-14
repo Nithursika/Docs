@@ -39,7 +39,7 @@ also the most critical to successfully creating a consolidated platform. When
 done right, Backstage acts as a "platform of platforms" or marketplace between
 infra/platform teams and end-users:
 
-![pop](../assets/pop.png)
+![pop](./assets/pop.png)
 
 While anyone at your company can contribute to the platform, the vast majority
 of work will be done by teams that also have internal engineers as their
