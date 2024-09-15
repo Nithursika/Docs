@@ -1,6 +1,6 @@
 ## TestDocs
 
-This is a test docs
+This is a test docs for example doc
 
 ## Getting started
 

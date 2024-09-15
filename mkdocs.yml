@@ -3,6 +3,7 @@ site_description: "This is a test docs"
 
 nav:
   - Introduction: index.md
+  - ex.md
 
 plugins:
   - techdocs-core
